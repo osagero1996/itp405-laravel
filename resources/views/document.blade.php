@@ -11,7 +11,7 @@
 </div>
 
 <script>
-let connection = new WebSocket('ws://oero-nodelab5.herokuapp.com');
+let connection = new WebSocket('wss://oero-nodelab5.herokuapp.com');
 // let connection = new WebSocket('ws://oero-websocket-demo.herokuapp.com');
 
 // 
